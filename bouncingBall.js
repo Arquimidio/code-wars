@@ -19,7 +19,7 @@ Initial height is an integer in range [2,1000]
 
 Bouncing Proportion is a decimal in range [0, 1)
 
-/*
+*/
 
 function bouncingBall(initial, proportion) {
   let bounces = 0
