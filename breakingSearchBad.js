@@ -25,7 +25,7 @@ const TITLES = [ 'The Big Bang Theory',
 'Shining' ]
 
 /*
-  I've removed the flag 'g' from the RexExp because
+  I've removed the flag 'g' from the RegExp because
   it can lead to odd behaviours in the method test.
   It happens because the method IS NOT STATELESS! It
   stores the lastIndex of the test and starts the search
