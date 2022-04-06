@@ -25,7 +25,7 @@ Task
   alphabetWar("zdqmwpbs"); //=> Let's fight again!
   alphabetWar("zzzzs");    //=> Right side wins!
   alphabetWar("wwwwwwz");  //=> Left side wins!
-
+*/
 function alphabetWar(fight)
 {
    let fightArr = [...fight]
