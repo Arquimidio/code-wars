@@ -17,7 +17,7 @@
 */
 
 function addLetters(...letters) {
- // Transforms letter in it's character code and turns it into a number between 1 and 26
+ // Transforms letter into it's character code and turns it into a number between 1 and 26
   const toNumber = letter => letter.charCodeAt(0) - 96
   // Sums all the characters in the array (considering overflow)
   const newLetterCode = (letters.reduce((acc, cur) => {
