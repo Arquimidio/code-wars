@@ -8,7 +8,7 @@ Return that number, or -1 if it is impossible.
 
 Good Luck!!!
 
-/*
+*/
 
 function solve(n) {
   const notes = [500, 200, 100, 50, 20, 10];
