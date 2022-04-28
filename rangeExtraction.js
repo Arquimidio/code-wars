@@ -13,7 +13,7 @@ solution([-10, -9, -8, -6, -3, -2, -1, 0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 14, 15, 1
 
 function solution(list){
   let result = [];
-   let range = [];
+  let range = [];
   let firstInSequence = list[0];
   list.forEach((actualNum, i) =>{
     const next = list[i + 1]
