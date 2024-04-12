@@ -1,2 +1,2 @@
 # Code Wars
-![alt text](https://www.codewars.com/users/Monkious/badges/large)
+My codewars solutions to code challenges
